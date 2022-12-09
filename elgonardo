@@ -32,11 +32,6 @@ http://rr2.dens.tv/s/s04/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
-#EXTINF:-1  tvg-name="indosiar" tvg-id="indosiar" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/Indosiar.jpg" group-title="",INDOSIAR
-http://rr2.dens.tv/s/s07/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzM0NDA0MTItMGYyMC0zNGQ0LTliMjMtNDY4MjE1ZjA5NmZj
 #EXTINF:-1  tvg-name="antv" tvg-id="antv" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/ANTV.jpg" group-title="",ANTV
 https://anevia114.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
