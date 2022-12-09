@@ -1,0 +1,10 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml" refresh="3600"
+
+#EXTINF:-1  tvg-name="beinsportsmax1" tvg-id="beinsportsmax1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/9a1e4669f1aee94451e4c865bed6d009.png" group-title="",BEINSPORTS MAX 1
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/296991
+#EXTINF:-1  tvg-name="beinsportsmax2" tvg-id="beinsportsmax2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/676f68d7821d270b1e0403c3a04fa06e.png" group-title="",BEINSPORTS MAX 2
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/199001
+#EXTINF:-1  tvg-name="beinsportsmax3" tvg-id="beinsportsmax3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-11/d36618c26e723c7c43fcf4832be9050b.png" group-title="",BEINSPORTS MAX 3
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/296992
+#EXTINF:-1  tvg-name="beinsportsmax4" tvg-id="beinsportsmax4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-04/399e773b5d324d6ac7d9b1d77de11e97.png" group-title="",BEINSPORTS MAX 4
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/13813
