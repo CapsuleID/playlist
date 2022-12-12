@@ -116,7 +116,7 @@ http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-name="qurantv" tvg-id="qurantv" tvg-logo="https://cdn.digiturkburada.com/kanal3/kanal-buyuk/al-quran-al-kareem-tv-hd-buyuk.png" group-title="",QURAN TV  
+#EXTINF:-1 tvg-name="qurantv" tvg-id="qurantv" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png" group-title="",QURAN TV  
 https://liveaneviadev.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -255,7 +255,7 @@ https://liveaneviadev.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1  tvg-name="zeebioskop" tvg-id="zeebioskop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest?cb=20210517184835" group-title="",ZEE BIOSKOP
+#EXTINF:-1  tvg-name="zeebioskop" tvg-id="zeebioskop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/Zee_Bioskop.jpg" group-title="",ZEE BIOSKOP
 https://liveaneviadev.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -326,7 +326,7 @@ https://liveaneviadev.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1  tvg-name="cinemaworld" tvg-id="cinemaworld" tvg-logo="https://cinemaworld.asia/Logo.svg" group-title="",CINEMA WORLD
+#EXTINF:-1  tvg-name="cinemaworld" tvg-id="cinemaworld" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ySty2_quJF05E0hpFAKblDXcd0gDhmmhDb9zzGM0&s" group-title="",CINEMA WORLD
 https://liveaneviadev.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
