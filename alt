@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/id/beinsports.com.epg.xml, https://iptv-org.github.io/epg/guides/id.xml" refresh="3600"
 
+#EXTINF:-1  tvg-name="rcti" tvg-id="rcti" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/800px-RCTI_logo_2015.svg.png" group-title="",RCTI
+https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
 #EXTINF:-1  tvg-name="antv" tvg-id="antv" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/ANTV.jpg" group-title="",ANTV
 http://rr2.dens.tv/s/s07/index.m3u8
 #EXTINF:-1  tvg-name="antv" tvg-id="antv" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/ANTV.jpg" group-title="",ANTV 2
@@ -9,19 +11,27 @@ http://210.210.155.37/qwr9ew/s/s03/01.m3u8|User-Agent=Lavf/56.15.102
 #EXTINF:-1  tvg-name="sctv" tvg-id="sctv" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/SCTV.jpg" group-title="",SCTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://nonton.wap.sh/id/009.m3u8
+#EXTINF:-1  tvg-name="sctv" tvg-id="sctv" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/SCTV.jpg" group-title="",SCTV 3
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1  tvg-name="indosiar" tvg-id="indosiar" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/Indosiar.jpg" group-title="",INDOSIAR
 http://rr2.dens.tv/s/s04/index.m3u8
 #EXTINF:-1  tvg-name="indosiar" tvg-id="indosiar" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/Indosiar.jpg" group-title="",INDOSIAR 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
+#EXTINF:-1  tvg-name="indosiar" tvg-id="indosiar" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/Indosiar.jpg" group-title="",INDOSIAR 3
+http://210.210.155.35/qwr9ew/s/s04/02.m3u8
 #EXTINF:-1  tvg-name="trans7" tvg-id="trans7" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/Trans7.jpg" group-title="",TRANS7
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/162502
 #EXTINF:-1  tvg-name="trans7" tvg-id="trans7" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/Trans7.jpg" group-title="",TRANS7 2
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTINF:-1  tvg-name="trans7" tvg-id="trans7" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/Trans7.jpg" group-title="",TRANS7 3
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w637025924_b744100_sleng.m3u8
 #EXTINF:-1  tvg-name="transtv" tvg-id="transtv" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/TransTV.jpg" group-title="",TRANS TV
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/162503
 #EXTINF:-1  tvg-name="transtv" tvg-id="transtv" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/TransTV.jpg" group-title="",TRANS TV 2
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTINF:-1  tvg-name="transtv" tvg-id="transtv" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/TransTV.jpg" group-title="",TRANS TV 3
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w226470954_b744100_sleng.m3u8
 #EXTINF:-1  tvg-name="net" tvg-id="net" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/NETtv.jpg" group-title="",NET.
 http://210.210.155.35:80/session/fba3e5b8-efb6-11ec-ba48-c81f66f89318/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1  tvg-name="net" tvg-id="net" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/NETtv.jpg" group-title="",NET. 2
@@ -29,6 +39,9 @@ http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 #EXTINF:-1  tvg-name="gtv" tvg-id="gtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/800px-GTV_%282017%29.svg.png" group-title="",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
+#EXTINF:-1  tvg-name="gtv" tvg-id="gtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/800px-GTV_%282017%29.svg.png" group-title="",GTV 2
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://gtv-linier.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1  tvg-name="hgtv" tvg-id="hgtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/800px-HGTV_2010.svg.png" group-title="",HGTV
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/157578
 #EXTINF:-1  tvg-name="mnctv" tvg-id="mnctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/800px-MNCTV_logo_2015.svg.png" group-title="",MNC TV
@@ -36,12 +49,19 @@ http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/165054
 #EXTINF:-1  tvg-name="mnctv" tvg-id="mnctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/800px-MNCTV_logo_2015.svg.png" group-title="",MNC TV 2
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
+#EXTINF:-1  tvg-name="mnctv" tvg-id="mnctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/800px-MNCTV_logo_2015.svg.png" group-title="",MNC TV 3
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://mnctv-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
 #EXTINF:-1  tvg-name="rtv" tvg-id="rtv" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/RTV.jpg" group-title="",RTV
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/196457
 #EXTINF:-1  tvg-name="ie" tvg-id="ie" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/634a1f725799280bbeeb992c9d19fb8f.png" group-title="",IE
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/157582
 #EXTINF:-1  tvg-name="lifestyle&fashion" tvg-id="lifestyle&fashion" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifestyle-and-fashion-id.png" group-title="",LIFESTYLE & FASHION
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/157592
+#EXTINF:-1 tvg-name="eatandgo" tvg-id="eatandgo" tvg-logo="https://www.useetv.com/pimages/logo_eatgo_big1.png" group-title="", EAT & GO
+http://103.58.160.158:8278/eatgo/playlist.m3u8
+#EXTINF:-1 tvg-name="thedesignnetwork" tvg-id="thedesignnetwork" tvg-logo="https://i.postimg.cc/htf7QQJc/tdn.png" group-title="", THE DESIGN NETWORK
+https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-name="btv" tvg-id="btv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png" group-title="",BTV
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/162513
 #EXTINF:-1  tvg-name="cnnindonesia" tvg-id="cnnindonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="",CNN INDONESIA
@@ -64,6 +84,8 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=jgDKPclcGdZfvrIDxfMdpT7v_srMWCbubntGo9cCYWpcBBQalMlLQxHswm43PbVR&bizkeylivestarttime=0
 #EXTINF:-1  tvg-name="inews" tvg-id="inews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/800px-INews.png" group-title="",INEWS
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/157579
+#EXTINF:-1  tvg-name="inews" tvg-id="inews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/800px-INews.png" group-title="",INEWS 2
+https://inews-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
 #EXTINF:-1  tvg-name="kompastv" tvg-id="kompastv" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/KompasTV.jpg" group-title="",KOMPAS TV
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/165060
 #EXTINF:-1  tvg-name="kompastv" tvg-id="kompastv" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/KompasTV.jpg" group-title="",KOMPAS TV 2
@@ -86,6 +108,8 @@ http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/296214
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/162504
 #EXTINF:-1  tvg-name="tvri" tvg-id="tvri" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/tvri.jpg" group-title="",TVRI 2
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+#EXTINF:-1  tvg-name="beritasatu" tvg-id="beritasatu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_BeritaSatu_Media.png" group-title="",BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1  tvg-name="beritasatuworld" tvg-id="beritasatuworld" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c5aca927f5717086d94a73d71939bffa.jpg" group-title="",BERITA SATU WORLD
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/162136
 #EXTINF:-1  tvg-name="idx" tvg-id="idx" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/aba9289c98406c8b6eaba1925ec4d591.png" group-title="",IDX
@@ -131,6 +155,14 @@ http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/157580
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/157596
 #EXTINF:-1  tvg-name="zeebioskop" tvg-id="zeebioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="",ZEE BIOSKOP
 http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/157584
+#EXTINF:-1  tvg-name="paramountpictures" tvg-id="paramountpictures" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/762px-Paramount_Pictures_Corporation_logo.svg.png" group-title="",PARAMOUNT PICTURES
+http://103.58.160.158:8278/paramount/playlist.m3u8
+#EXTINF:-1 tvg-name="mycinema" tvg-id="mycinema" tvg-logo="https://www.useetv.com/pimages/logo_new-mycinema_small.png" group-title="", My Cinema
+http://210.210.155.35:80/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:-1 tvg-name="mycinemaasia" tvg-id="mycinemaasia" tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png" group-title="", My Cinema Asia
+http://210.210.155.35:80/uq2663/h/h193/index.m3u8
+#EXTINF:-1 tvg-name="myfamilychannel" tvg-id="myfamilychannel" tvg-logo="https://www.useetv.com/pimages/logo_new-myfamily_big.png" group-title="", My Family Channel
+http://210.210.155.35:80/uq2663/h/h194/index.m3u8
 
 #EXTINF:-1 tvg-name="worldfashionchannelinternational" tvg-id="worldfashionchannelinternational" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/World_Fashion_logo.jpg/398px-World_Fashion_logo.jpg" group-title="",WORLD FASHION CHANNEL 
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
@@ -175,3 +207,9 @@ http://210.210.155.37/dr9445/h/h02/index.m3u8
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
 #EXTINF:-1  tvg-name="biznetkids" tvg-id="biznetkids" tvg-logo="https://registration.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="",BIZNET KIDS
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1  tvg-name="duniaanak" tvg-id="duniaanak" tvg-logo="https://www.transvision.co.id/img/channel/dunia_anak.png" group-title="",DUNIA ANAK
+http://103.58.160.158:8278/duniaanak/playlist.m3u8
+#EXTINF:-1 tvg-name="spacetoon" tvg-id="spacetoon" tvg-logo="https://i.imgur.com/Qm3X46H_d.png" group-title="",SPACETOON
+https://bravo.kugo.id/kugo/spacetoon-udp.stream_360p/playlist.m3u8
+
+
