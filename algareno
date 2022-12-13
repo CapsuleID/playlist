@@ -414,7 +414,7 @@ https://liveaneviadev.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchan
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1  tvg-name="fightsports" tvg-id="fightsports" tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1586427101-.png" group-title="",FIGHT SPORTS
+#EXTINF:-1  tvg-name="fightsports" tvg-id="fightsports" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/fightsports.png" group-title="",FIGHT SPORTS
 https://liveaneviadev.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -434,7 +434,7 @@ https://liveaneviadev.mncnow.id/live/eds/BeIN4/sa_dash_vmx/BeIN4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1  tvg-name="besmart" tvg-id="besmart" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Besmart.png" group-title="",BESMART
+#EXTINF:-1  tvg-name="besmart" tvg-id="besmart" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/besmart.png" group-title="",BESMART
 https://liveaneviadev.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
