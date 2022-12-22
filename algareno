@@ -213,7 +213,7 @@ http://rr2.dens.tv/s/s41/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-name="globalfashionchannel" tvg-id="globalfashionchannel" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/fashiontv.png" group-title="",GLOBAL FASHION CHANNEL 
+#EXTINF:-1 tvg-name="globalfashionchannel" tvg-id="globalfashionchannel" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/globalfashionchannel.png" group-title="",GLOBAL FASHION CHANNEL 
 https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
