@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml" refresh="3600"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml, https://iptv-org.github.io/epg/guides/id/indihometv.com.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml" refresh="3600"
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
