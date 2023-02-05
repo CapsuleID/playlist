@@ -617,47 +617,47 @@ http://54.37.82.205:8081/liveorigin/my-asp4_480/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1  tvg-name="truesports" tvg-id="truesports" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/truesports.png" group-title="SPORT",TRUE SPORTS 1
-https://sport.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8
+https://sport.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8|Referer="https://www.livedoomovie.com"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1  tvg-name="truesports" tvg-id="truesports" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/truesports.png" group-title="SPORT",TRUE SPORTS 2
-https://sport.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8
+https://sport.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8|Referer="https://www.livedoomovie.com"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1  tvg-name="truesports" tvg-id="truesports" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/truesports.png" group-title="SPORT",TRUE SPORTS 3
-https://sport.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8
+https://sport.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8|Referer="https://www.livedoomovie.com"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1  tvg-name="truesports" tvg-id="truesports" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/truesports.png" group-title="SPORT",TRUE SPORTS 4
-https://sport.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8
+https://sport.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8|Referer="https://www.livedoomovie.com"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1  tvg-name="truepremierfootball" tvg-id="truepremierfootball" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/tpf1.png" group-title="SPORT",TRUE PREMIER 1
-https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8
+https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer="https://www.livedoomovie.com"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1  tvg-name="truepremierfootball" tvg-id="truepremierfootball" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/tpf2.png" group-title="SPORT",TRUE PREMIER 2
-https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8
+https://sport.livedoomovies.com:4431/02_PremierHD2_720p/chunklist.m3u8|Referer="https://www.livedoomovie.com"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1  tvg-name="truepremierfootball" tvg-id="truepremierfootball" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/tpf3.png" group-title="SPORT",TRUE PREMIER 3
-https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
+https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8|Referer="https://www.livedoomovie.com"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1  tvg-name="truepremierfootball" tvg-id="truepremierfootball" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/tpf4.png" group-title="SPORT",TRUE PREMIER 4
-https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
+https://sport.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8|Referer="https://www.livedoomovie.com"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1  tvg-name="truepremierfootball" tvg-id="truepremierfootball" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/tpf5.png" group-title="SPORT",TRUE PREMIER 5
-https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
+https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer="https://www.livedoomovie.com"|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
