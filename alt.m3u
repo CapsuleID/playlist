@@ -208,4 +208,83 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1  tvg-name="outsidetv" tvg-id="outsidetv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/outsidetv.png" group-title="KNOWLEDGE",OUTSIDE TV
 https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
 
+#EXTINF:-1  tvg-name="gprtv" tvg-id="gprtv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/gprtv.png" group-title="NEWS",GPR TV
+https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
+
+#EXTINF:-1  tvg-name="indonesianatv" tvg-id="indonesianatv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/indonesianatv.png" group-title="STYLE",INDONESIANA TV
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
+
+#EXTINF:-1  tvg-name="ugtv" tvg-id="ugtv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/ugtv.png" group-title="NATIONAL",UG TV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+
+EXTINF:-1  tvg-name="rodjatv" tvg-id="rodjatv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/rodjatv.png" group-title="RELIGION",RODJA TV
+http://rr2.dens.tv/s/s14/index.m3u8
+
+EXTINF:-1  tvg-name="rodjatv" tvg-id="rodjatv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/rodjatv.png" group-title="RELIGION",RODJA TV 2
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
+
+#EXTINF:-1  tvg-name="brtv" tvg-id="brtv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/brtv.png" group-title="RELIGION",BRTV
+https://e1.siar.us/badartv/live/playlist.m3u8
+
+#EXTINF:-1  tvg-name="inspira" tvg-id="inspira" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/inspira.png" group-title="RELIGION",INSPIRA
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+
+#EXTINF:-1  tvg-name="digione" tvg-id="digione" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/digione.png" group-title="NATIONAL",DIGIONE
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+
+#EXTINF:-1 tvg-name="moji" tvg-id="moji" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/moji.png" group-title="NATIONAL",MOJI 
+http://rr2.dens.tv/s/s41/01.m3u8
+
+#EXTINF:-1 tvg-name="globalfashionchannel" tvg-id="globalfashionchannel" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/globalfashionchannel.png" group-title="STYLE",GLOBAL FASHION CHANNEL 
+https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-name="fashiontvtopmodel" tvg-id="fashiontvtopmodel" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/fashiontv.png" group-title="STYLE",FASHION TV TOP MODELS 
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-name="fashiontvgb" tvg-id="fashiontvgb" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/fashiontv.png" group-title="STYLE",FASHION TV GB 
+https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-name="fashiontvmidnite" tvg-id="fashiontvmidnite" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/fashiontv.png" group-title="STYLE",FASHION TV MIDNITE 
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+
+#EXTINF:-1  tvg-name="motorvision" tvg-id="motorvision" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/motorvision.png" group-title="SPORT",MOTORVISION
+http://rr.dens.tv/h/h09/01.m3u8
+
+#EXTINF:-1  tvg-name="inwonder" tvg-id="inwonder" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/inwonder.png" group-title="KNOWLEDGE",INWONDER
+https://inwonder-eng-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1  tvg-name="inwild" tvg-id="inwild" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/inwild.png" group-title="KNOWLEDGE",INWILD
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1  tvg-name="bioskopindonesia" tvg-id="bioskopindonesia" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/bioskopindonesia.png" group-title="MOVIE",BIOSKOP INDONESIA
+https://mibitivi.xyz/sc/play.mpd?tekon=altec&channel=bioskopindonesia
+
+#EXTINF:-1  tvg-name="vevo" tvg-id="vevo" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/vevo.png" group-title="MUSIC",VEVO
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+
+#EXTINF:-1  tvg-name="molahitstv" tvg-id="molahitstv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/molahitstv.png" group-title="MUSIC",MOLAHITS TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-1  tvg-name="densshowbiz" tvg-id="densshowbiz" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/densshowbiz.png" group-title="MUSIC",DENS SHOWBIZ
+http://210.210.155.37/x6bnqe/s/s35/index.m3u8
+
+#EXTINF:-1  tvg-name="theindonesiachannel" tvg-id="theindonesiachannel" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/tic.png" group-title="MUSIC",THE INDONESIA CHANNEL
+https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
+
+#EXTINF:-1  tvg-name="foxsports" tvg-id="foxsports" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/foxsports.png" group-title="SPORT",FOX SPORTS
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+
+#EXTINF:-1  tvg-name="foxsports2" tvg-id="foxsports2" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/foxsports2.png" group-title="SPORT",FOX SPORTS 2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+
+#EXTINF:-1  tvg-name="foxsports3" tvg-id="foxsports3" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/foxsports3.png" group-title="SPORT",FOX SPORTS 3
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+
+#EXTINF:-1  tvg-name="densplay" tvg-id="densplay" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/densplay.png" group-title="KIDS",DENS PLAY
+http://rr3.dens.tv/s/s37/index.m3u8
+
+#EXTINF:-1  tvg-name="mentaritv" tvg-id="mentaritv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/mentaritv.png" group-title="KIDS",MENTARI TV
+https://geocities.ws/ariev7xx/mentari.m3u8
+
+
 
