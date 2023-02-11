@@ -3,6 +3,12 @@
 #EXTINF:-1  tvg-name="rcti" tvg-id="rcti" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/rcti.png" group-title="NATIONAL",RCTI (RCTI+)
 https://dash-rcti.rctiplus.id/rcti-sdi.mpd
 
+#EXTINF:-1  tvg-name="mnctv" tvg-id="mnctv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/mnctv.png" group-title="NATIONAL",MNC TV (RCTI+)
+https://dash-mnctv.rctiplus.id/mnctv-sdi.mpd
+
+#EXTINF:-1  tvg-name="inews" tvg-id="inews" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/inews.png" group-title="NEWS",INEWS (RCTI+)
+https://dash-inews.rctiplus.id/inews-sdi.mpd
+
 #EXTINF:-1  tvg-name="antv" tvg-id="antv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/antv.png" group-title="NATIONAL",ANTV
 http://rr2.dens.tv/s/s07/index.m3u8
 
