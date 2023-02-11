@@ -2,53 +2,71 @@
 
 #EXTINF:-1  tvg-name="rcti" tvg-id="rcti" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/rcti.png" group-title="NATIONAL",RCTI (RCTI+)
 https://dash-rcti.rctiplus.id/rcti-sdi.mpd
+
 #EXTINF:-1  tvg-name="antv" tvg-id="antv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/antv.png" group-title="NATIONAL",ANTV
 http://rr2.dens.tv/s/s07/index.m3u8
+
 #EXTINF:-1  tvg-name="antv" tvg-id="antv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/antv.png" group-title="NATIONAL",ANTV 2
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
+
 #EXTINF:-1  tvg-name="sctv" tvg-id="sctv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/sctv.png" group-title="NATIONAL",SCTV
 http://210.210.155.37/qwr9ew/s/s03/01.m3u8|User-Agent=Lavf/56.15.102
+
 #EXTINF:-1  tvg-name="sctv" tvg-id="sctv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/sctv.png" group-title="NATIONAL",SCTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://nonton.wap.sh/id/009.m3u8
+
 #EXTINF:-1  tvg-name="sctv" tvg-id="sctv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/sctv.png" group-title="NATIONAL",SCTV 3
 http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+
 #EXTINF:-1  tvg-name="indosiar" tvg-id="indosiar" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/indosiar.png" group-title="NATIONAL",INDOSIAR
 http://rr2.dens.tv/s/s04/index.m3u8
+
 #EXTINF:-1  tvg-name="indosiar" tvg-id="indosiar" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/indosiar.png" group-title="NATIONAL",INDOSIAR 2
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
+
 #EXTINF:-1  tvg-name="indosiar" tvg-id="indosiar" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/indosiar.png" group-title="NATIONAL",INDOSIAR 3
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8
+
 #EXTINF:-1  tvg-name="trans7" tvg-id="trans7" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/trans7.png" group-title="NATIONAL",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
 #EXTINF:-1  tvg-name="trans7" tvg-id="trans7" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/trans7.png" group-title="NATIONAL",TRANS7 2
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w637025924_b744100_sleng.m3u8
+
 #EXTINF:-1  tvg-name="transtv" tvg-id="transtv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/transtv.png" group-title="NATIONAL",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
 #EXTINF:-1  tvg-name="transtv" tvg-id="transtv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/transtv.png" group-title="NATIONAL",TRANS TV 2
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w226470954_b744100_sleng.m3u8
+
 #EXTINF:-1  tvg-name="net" tvg-id="net" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/net.png" group-title="NATIONAL",NET.
 http://210.210.155.35:80/session/fba3e5b8-efb6-11ec-ba48-c81f66f89318/qwr9ew/s/s08/01.m3u8
+
 #EXTINF:-1  tvg-name="net" tvg-id="net" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/net.png" group-title="NATIONAL",NET. 2
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+
 #EXTINF:-1  tvg-name="net" tvg-id="net" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/net.png" group-title="NATIONAL",NET. 3
 http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8
 
 #EXTINF:-1  tvg-name="rtv" tvg-id="rtv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/rtv.png" group-title="NATIONAL",RTV
 http://210.210.155.37/dr9445/h/h10/index.m3u8
+
 #EXTINF:-1  tvg-name="rtv" tvg-id="rtv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/rtv.png" group-title="NATIONAL",RTV 2
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
 #EXTINF:-1  tvg-name="btv" tvg-id="btv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/btv.png" group-title="NATIONAL",BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
 #EXTINF:-1  tvg-name="jakartaglobenews" tvg-id="jakartaglobenews" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/jktglobe.png" group-title="NEWS",JAKARTA GLOBE NEWS
 https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
+
 #EXTINF:-1  tvg-name="beritasatuworld" tvg-id="beritasatuworld" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/beritasatuworld.png" group-title="NEWS",BERITA SATU WORLD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
-
 #EXTINF:-1  tvg-name="cnnindonesia" tvg-id="cnnindonesia" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/cnn.png" group-title="NEWS",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1622709713_b192000_sleng.m3u8
+
 #EXTINF:-1  tvg-name="cnnindonesia" tvg-id="cnnindonesia" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/cnn.png" group-title="NEWS",CNN INDONESIA 2
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
@@ -57,6 +75,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 #EXTINF:-1  tvg-name="nusantaratv" tvg-id="nusantaratv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/nusantaratv.png" group-title="NATIONAL",NUSANTARA TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+
 #EXTINF:-1  tvg-name="nusantaratv" tvg-id="nusantaratv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/nusantaratv.png" group-title="NATIONAL",NUSANTARA TV 2
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
@@ -86,38 +105,49 @@ http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 
 #EXTINF:-1  tvg-name="tvri" tvg-id="tvri" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/tvri.png" group-title="NATIONAL",TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+
 #EXTINF:-1  tvg-name="tvri" tvg-id="tvri" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/tvri.png" group-title="NATIONAL",TVRI 2
 http://210.210.155.35/session/f035043e-fb13-11eb-bca3-c81f66f89318/qwr9ew/s/s11/01.m3u8
 
 #EXTINF:-1  tvg-name="rockaction" tvg-id="rockaction" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/rockaction.png" group-title="MOVIE",ROCK ACTION
 http://210.210.155.37/dr9445/h/h15/index.m3u8
+
 #EXTINF:-1  tvg-name="rockaction" tvg-id="rockaction" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/rockaction.png" group-title="MOVIE",ROCK ACTION 2
 http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
+
 #EXTINF:-1  tvg-name="rockaction" tvg-id="rockaction" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/rockaction.png" group-title="MOVIE",ROCK ACTION 3
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+
 #EXTINF:-1  tvg-name="rockaction" tvg-id="rockaction" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/rockaction.png" group-title="MOVIE",ROCK ACTION 4
 http://rr1.dens.tv/h/h15/index.m3u8
+
 #EXTINF:-1  tvg-name="rockaction" tvg-id="rockaction" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/rockaction.png" group-title="MOVIE",ROCK ACTION 5
 http://rr1.dens.tv/h/h15/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Extreme_HD
 
 #EXTINF:-1  tvg-name="rockentertainment" tvg-id="rockentertainment" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/rockentertainment.png" group-title="MOVIE",ROCK ENTERTAINMENT
 http://210.210.155.37/dr9445/h/h16/index.m3u8
+
 #EXTINF:-1  tvg-name="rockentertainment" tvg-id="rockentertainment" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/rockentertainment.png" group-title="MOVIE",ROCK ENTERTAINMENT 2
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+
 #EXTINF:-1  tvg-name="rockentertainment" tvg-id="rockentertainment" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/rockentertainment.png" group-title="MOVIE",ROCK ENTERTAINMENT 3
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+
 #EXTINF:-1  tvg-name="rockentertainment" tvg-id="rockentertainment" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/rockentertainment.png" group-title="MOVIE",ROCK ENTERTAINMENT 4
 http://rr1.dens.tv/h/h16/index.m3u8
+
 #EXTINF:-1  tvg-name="rockentertainment" tvg-id="rockentertainment" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/rockentertainment.png" group-title="MOVIE",ROCK ENTERTAINMENT 5
 http://rr1.dens.tv/h/h16/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Entertainment_HD
 
 #EXTINF:-1  tvg-name="mycinema" tvg-id="mycinema" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/mycinema.png" group-title="MOVIE",MY CINEMA
 http://210.210.155.37/uq2663/h/h192/index.m3u8
+
 #EXTINF:-1  tvg-name="mycinema" tvg-id="mycinema" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/mycinema.png" group-title="MOVIE",MY CINEMA 2
 http://rr3.dens.tv/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD
 
 #EXTINF:-1  tvg-name="mycinemaasia" tvg-id="mycinemaasia" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/mycinemaasia.png" group-title="MOVIE",MY CINEMA ASIA
 http://210.210.155.37/uq2663/h/h193/index.m3u8
+
 #EXTINF:-1  tvg-name="mycinemaasia" tvg-id="mycinemaasia" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/mycinemaasia.png" group-title="MOVIE",MY CINEMA ASIA 2
 http://rr3.dens.tv/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia_Trial-
 
@@ -126,11 +156,13 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 
 #EXTINF:-1  tvg-name="mycinemaeurope" tvg-id="mycinemaeurope" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/mycinemaeurope.png" group-title="MOVIE",MY CINEMA EUROPE
 http://210.210.155.37/uq2663/h/h18/index.m3u8
+
 #EXTINF:-1  tvg-name="mycinemaeurope" tvg-id="mycinemaeurope" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/mycinemaeurope.png" group-title="MOVIE",MY CINEMA EUROPE 2
 http://rr.dens.tv/h/h18/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Europe_HD
 
 #EXTINF:-1  tvg-name="aniplus" tvg-id="aniplus" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/aniplus.png" group-title="KIDS",ANIPLUS
 http://210.210.155.37/dr9445/h/h02/index.m3u8
+
 #EXTINF:-1  tvg-name="aniplus" tvg-id="aniplus" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/aniplus.png" group-title="KIDS",ANIPLUS 2
 http://210.210.155.35:80/dr9445/h/h02/01.m3u8
 
@@ -145,6 +177,7 @@ http://210.210.155.35:80/dr9445/h/h07/01.m3u8
 
 #EXTINF:-1  tvg-name="k+" tvg-id="k+" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/kplus.png" group-title="DRAMA",K+
 http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+
 #EXTINF:-1  tvg-name="k+" tvg-id="k+" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/kplus.png" group-title="DRAMA",K+ 2
 http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
 
@@ -156,7 +189,6 @@ http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1  tvg-name="hits" tvg-id="hits" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/hits.png" group-title="MOVIE",HITS
 http://210.210.155.37/dr9445/h/h37/index.m3u8
-
 
 #EXTINF:-1 tvg-name="peopleareawesome" tvg-id="peopleareawesome" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/peopleareawesome.png" group-title="SPORT",PEOPLE ARE AWESOME 
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
