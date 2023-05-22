@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://pastebin.com/raw/MBdYPF19,https://12537-stream-ip-tv.xyz/epg/general/guide.xml.gz,https://iptv-org.github.io/epg/guides/id/mncvision.id.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.xml" refresh="3600"
+#EXTM3U url-tvg="https://12537-stream-ip-tv.xyz/epg/general/guide.xml.gz" refresh="3600"
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -28,17 +28,8 @@ http://210.210.155.37/qwr9ew/s/s03/01.m3u8|User-Agent=Lavf/56.15.102
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1  tvg-name="sctv" tvg-id="sctv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/sctv.png" group-title="NATIONAL",SCTV (DENS)
-http://210.210.155.35/qwr9ew/s/s03/01.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="indosiar" tvg-id="indosiar" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/indosiar.png" group-title="NATIONAL",INDOSIAR
 http://rr2.dens.tv/s/s04/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1  tvg-name="indosiar" tvg-id="indosiar" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/indosiar.png" group-title="NATIONAL",INDOSIAR (DENS)
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8
 
@@ -46,12 +37,6 @@ http://210.210.155.35/qwr9ew/s/s04/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="antv" tvg-id="antv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/antv.png" group-title="NATIONAL",ANTV
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-http://rr2.dens.tv/s/s07/index.m3u8
-http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1  tvg-name="antv" tvg-id="antv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/antv.png" group-title="NATIONAL",ANTV (DENS)
 http://rr2.dens.tv/s/s07/index.m3u8
 http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 
@@ -104,13 +89,6 @@ http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="net" tvg-id="net" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/net.png" group-title="NATIONAL",NET.
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
-http://210.210.155.35:80/session/fba3e5b8-efb6-11ec-ba48-c81f66f89318/qwr9ew/s/s08/01.m3u8
-http://210.210.155.37/qwr9ew/s/s08/index.m3u8
-http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1  tvg-name="net" tvg-id="net" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/net.png" group-title="NATIONAL",NET. (DENS)
 http://210.210.155.35:80/session/fba3e5b8-efb6-11ec-ba48-c81f66f89318/qwr9ew/s/s08/01.m3u8
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8
@@ -738,11 +716,6 @@ http://185.53.89.183/hls/M1.m3u8|Referer="http://maxsports.site/"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1  tvg-name="xtremsports" tvg-id="xtremsports" tvg-logo="https://cdnjkt.transvision.co.id/image/web/channel/4028c6857fe540a1018060a4379740b7/85457b08d53449118c75e2f51186ddcb.jpg" group-title="SPORTS", XTREM SPORTS
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="densplay" tvg-id="densplay" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/densplay.png" group-title="KIDS",DENS PLAY
 http://rr3.dens.tv/s/s37/index.m3u8
 
@@ -806,13 +779,3 @@ http://rr.dens.tv/h/h191/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341
 #EXTINF:-1  tvg-name="aniplus" tvg-id="aniplus" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/aniplus.png" group-title="KIDS",ANIPLUS
 http://210.210.155.37/dr9445/h/h02/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1  tvg-name="mentaritv" tvg-id="mentaritv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/mentaritv.png" group-title="KIDS",MENTARI TV
-https://ariev.vercel.app/api/8237
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1  tvg-name="paramount" tvg-id="paramount" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/paramount.png" group-title="KIDS",PARAMOUNT
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=paramount
-http://103.58.160.158:8278/paramount/playlist.m3u8
