@@ -29,10 +29,20 @@ http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1  tvg-name="sctv" tvg-id="sctv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/sctv.png" group-title="NATIONAL",SCTV (TRANSMEDIA)
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="indosiar" tvg-id="indosiar" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/indosiar.png" group-title="NATIONAL",INDOSIAR
 http://rr2.dens.tv/s/s04/index.m3u8
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1  tvg-name="indosiar" tvg-id="indosiar" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/indosiar.png" group-title="NATIONAL",INDOSIAR (TRANSMEDIA)
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -380,7 +390,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="bioskopindonesia" tvg-id="bioskopindonesia" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/bioskopindonesia.png" group-title="MOVIES",BIOSKOP INDONESIA
-https://mibitivi.xyz/sc/play.mpd?tekon=altec&channel=bioskopindonesia
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -713,6 +723,11 @@ https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8|Referer="
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="tsn" tvg-id="tsn" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/tsn.png" group-title="SPORTS", TSN
 http://185.53.89.183/hls/M1.m3u8|Referer="http://maxsports.site/"
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1  tvg-name="xtremsports" tvg-id="xtremsports" tvg-logo="https://cdnjkt.transvision.co.id/image/web/channel/4028c6857fe540a1018060a4379740b7/85457b08d53449118c75e2f51186ddcb.jpg" group-title="SPORTS", XTREM SPORTS
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
