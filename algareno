@@ -471,7 +471,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="outsidetv" tvg-id="outsidetv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/outsidetv.png" group-title="KNOWLEDGES",OUTSIDE TV
-https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
+https://outsidetvplus-stirr.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -481,8 +481,18 @@ http://rr.dens.tv/h/h09/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1  tvg-name="wired2fish" tvg-id="wired2fish" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/wired2fish.png" group-title="KNOWLEDGES",WIRED2FISH (LINKNET)
+#EXTINF:-1  tvg-name="lovenature" tvg-id="lovenature" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/lovenature.png" group-title="KNOWLEDGES",LOVE NATURE (LINKNET)
 http://edge.linknetott.swiftserve.com/channelgroup3/cg350production/ch368/02.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1  tvg-name="wired2fish" tvg-id="wired2fish" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/wired2fish.png" group-title="KNOWLEDGES",WIRED2FISH
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1  tvg-name="wildearth" tvg-id="wildearth" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/wildearth.png" group-title="KNOWLEDGES",WILD EARTH
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -528,6 +538,21 @@ http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="bbcearth" tvg-id="bbcearth" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/bbcearth.png" group-title="KNOWLEDGES",BBC EARTH
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1  tvg-name="smithsonian" tvg-id="smithsonian" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/smithsonian.png" group-title="KNOWLEDGES",SMITHSONIAN CHANNEL
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1  tvg-name="fishing" tvg-id="fishing" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/fishing.png" group-title="KNOWLEDGES",FISHING
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af39510fd17b31a528eda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1  tvg-name="hunter" tvg-id="hunter" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/hunter.png" group-title="KNOWLEDGES",HUNTER
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c99f5810c95814ff92512f9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
