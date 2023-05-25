@@ -813,7 +813,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1  tvg-name="outside" tvg-id="outside" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/outside.png" group-title="KNOWLEDGES",OUTSIDE
+#EXTINF:-1  tvg-name="outside" tvg-id="outside" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/outside.png" group-title="SPORTS",OUTSIDE
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
