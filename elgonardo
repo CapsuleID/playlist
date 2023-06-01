@@ -240,7 +240,6 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1  tvg-name="gprtv" tvg-id="gprtv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_gprtv.png" group-title="NEWS",GPR TV
-https://alfa.kugo.id/gprtv/rtmp.stream/playlist.m3u8
 https://wowza.convergen.co/gprtv/myLive/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
