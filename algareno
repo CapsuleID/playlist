@@ -991,7 +991,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1  tvg-name="densplay" tvg-id="densplay" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_densplay.png" group-title="SPORTS",DENS PLAY
+#EXTINF:-1  tvg-name="densplay" tvg-id="densplay" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_densplays.png" group-title="SPORTS",DENS PLAY
 http://210.210.155.37/x6bnqe/s/s37/index.m3u8
 http://rr3.dens.tv/s/s37/index.m3u8
 
