@@ -711,14 +711,29 @@ http://rr3.dens.tv/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=82934
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1  tvg-name="mycinema" tvg-id="mycinema" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_mycinema.png" group-title="MOVIES",MY CINEMA00
+https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1  tvg-name="mycinemaasia" tvg-id="mycinemaasia" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_mycinemaasia.png" group-title="MOVIES",MY CINEMA ASIA
 http://210.210.155.37/uq2663/h/h193/index.m3u8
 http://rr3.dens.tv/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia_Trial-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1  tvg-name="mycinemaasia" tvg-id="mycinemaasia" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_mycinemaasia.png" group-title="MOVIES",MY CINEMA ASIA00
+https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1  tvg-name="myfamilychannel" tvg-id="myfamilychannel" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_myfamilychannel.png" group-title="MOVIES",MY FAMILY CHANNEL
 http://210.210.155.37/uq2663/h/h194/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1  tvg-name="myfamilychannel" tvg-id="myfamilychannel" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_myfamilychannel.png" group-title="MOVIES",MY FAMILY CHANNEL00
+https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
