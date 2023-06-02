@@ -748,7 +748,6 @@ http://beetv.my.id/x/usee-flik-gojokkk.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1  tvg-name="sonypix" tvg-id="sonypix" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_sonypix.png" group-title="MOVIES",SONY PIX
-https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 ###############################################################################
@@ -803,11 +802,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
 
 ###############################################################################
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1  tvg-name="tvedukasi" tvg-id="tvedukasi" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_tvedukasi.png" group-title="KIDS",TV EDUKASI
-http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
