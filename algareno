@@ -749,6 +749,7 @@ http://beetv.my.id/x/usee-flik-gojokkk.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1  tvg-name="sonypix" tvg-id="sonypix" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_sonypix.png" group-title="MOVIES",SONY PIX
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 ###############################################################################
 
