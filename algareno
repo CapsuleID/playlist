@@ -1,59 +1,61 @@
-#EXTM3U url-tvg="https://epg.best/218fa-cqro5p.xml.gz" x-tvg-url="https://epg.best/218fa-cqro5p.xml.gz" refresh="3600"
+#EXTM3U 
+url-tvg=" " 
+x-tvg-url=" " 
 
 ###############################################################################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1  tvg-name="TVRI.id" tvg-id="TVRI.id" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_tvri.png" group-title="NATIONWIDE",TVRI (MNCNOW)
+#EXTINF:-1  tvg-name="tvri" tvg-id="tvri" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_tvri.png" group-title="NATIONWIDE",TVRI (MNCNOW)
 https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1  tvg-name="TVRI.id" tvg-id="TVRI.id" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_tvri.png" group-title="NATIONWIDE",TVRI (LINKNET)
+#EXTINF:-1  tvg-name="tvri" tvg-id="tvri" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_tvri.png" group-title="NATIONWIDE",TVRI (LINKNET)
 http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1  tvg-name="RCTI.id" tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_rcti.png" group-title="NATIONWIDE",RCTI (MNCNOW)
+#EXTINF:-1  tvg-name="rcti" tvg-id="rcti" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_rcti.png" group-title="NATIONWIDE",RCTI (MNCNOW)
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
-#EXTINF:0  tvg-name="RCTI.id" tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_rcti.png" group-title="NATIONWIDE",RCTI (TRANSVISION)
+#EXTINF:0  tvg-name="rcti" tvg-id="rcti" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_rcti.png" group-title="NATIONWIDE",RCTI (TRANSVISION)
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1  tvg-name="GTV.id" tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_gtv.png" group-title="NATIONWIDE",GTV (MNCNOW)
+#EXTINF:-1  tvg-name="gtv" tvg-id="gtv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_gtv.png" group-title="NATIONWIDE",GTV (MNCNOW)
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
-#EXTINF:0  tvg-name="GTV.id" tvg-id="gtv.id" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_gtv.png" group-title="NATIONWIDE",GTV (TRANSVISION)
+#EXTINF:0  tvg-name="gtv" tvg-id="gtv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_gtv.png" group-title="NATIONWIDE",GTV (TRANSVISION)
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1  tvg-name="mnctv" tvg-id="mnctv.id" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_mnctv.png" group-title="NATIONWIDE",MNC TV (MNCNOW)
+#EXTINF:-1  tvg-name="mnctv" tvg-id="mnctv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_mnctv.png" group-title="NATIONWIDE",MNC TV (MNCNOW)
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.combipart1.workers.dev/
-#EXTINF:0  tvg-name="mnctv" tvg-id="mnctv.id" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_mnctv.png" group-title="NATIONWIDE",MNC TV (TRANSVISION)
+#EXTINF:0  tvg-name="mnctv" tvg-id="mnctv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_mnctv.png" group-title="NATIONWIDE",MNC TV (TRANSVISION)
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1  tvg-name="sctv" tvg-id="sctv.id" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_sctv.png" group-title="NATIONWIDE",SCTV
+#EXTINF:-1  tvg-name="sctv" tvg-id="sctv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_sctv.png" group-title="NATIONWIDE",SCTV
 http://210.210.155.37/qwr9ew/s/s03/01.m3u8|User-Agent=Lavf/56.15.102
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1  tvg-name="sctv" tvg-id="sctv.id" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_sctv.png" group-title="NATIONWIDE",SCTV (LINKNET)
+#EXTINF:-1  tvg-name="sctv" tvg-id="sctv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_sctv.png" group-title="NATIONWIDE",SCTV (LINKNET)
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -64,7 +66,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e6475
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1  tvg-name="indosiar" tvg-id="indosiar.id" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_indosiar.png" group-title="NATIONWIDE",INDOSIAR
+#EXTINF:-1  tvg-name="indosiar" tvg-id="indosiar" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/0_indosiar.png" group-title="NATIONWIDE",INDOSIAR
 http://rr2.dens.tv/s/s04/index.m3u8
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8
