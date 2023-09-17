@@ -673,8 +673,13 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1  tvg-name="nasatv" tvg-id="nasatv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/nasatv.png" group-title="KNOWLEDGES",NASA TV
+#EXTINF:-1  tvg-name="nasatv" tvg-id="nasatv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/nasatv.png" group-title="KNOWLEDGES",NASA PUBLIC TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1  tvg-name="nasatv" tvg-id="nasatv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/nasatv.png" group-title="KNOWLEDGES",NASA MEDIA TV
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -740,6 +745,11 @@ https://inwild-samsung-uk.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1  tvg-name="introuble" tvg-id="introuble" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/introuble.png" group-title="KNOWLEDGES",INTROUBLE
 https://introuble-samsungau.amagi.tv/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1  tvg-name="globaltrekker" tvg-id="globaltrekker" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/globaltrekker.png" group-title="KNOWLEDGES",GLOBAL TREKKER (MNCNOW)
+https://nyanv-live-cdn.mncnow.id:443/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
