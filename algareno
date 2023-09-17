@@ -1046,8 +1046,18 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celestial
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1  tvg-name="starmovies" tvg-id="starmovies" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/starmovies.png" group-title="MOVIES",STARMOVIES
+http://appleiptv.com:80/7867/7867/42967
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1  tvg-name="starmoviesselect" tvg-id="starmoviesselect" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/starmoviesselect.png" group-title="MOVIES",STARMOVIES SELECT
+http://appleiptv.com:80/7867/7867/42967
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1  tvg-name="flik" tvg-id="flik" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/flik.png" group-title="MOVIES",FLIK
-http://beetv.my.id/x/usee-flik-gojokkk.m3u8
+https://delivery.ksa.my.id/stream/flik/playlist.m3u8?token=ym1wtrp&v=20200807
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -1325,7 +1335,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch375)/index.m3u
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1  tvg-name="aniplus" tvg-id="aniplus" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/aniplus.png" group-title="KIDS",ANIPLUS
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=297589&extension=m3u8&play_token=
+http://rr.dens.tv:80/h/h114/S4/mnf.m3u8
 
 ###############################################################################
 
