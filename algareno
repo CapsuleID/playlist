@@ -3,15 +3,12 @@
 url-tvg=" " 
 x-tvg-url=" " 
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/malaysia/cinemax.jpg" group-title="🇲🇾 MALAYSIA",CINEMAX Manual Set
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/603
-https://hometv.pw/my/stream/dash-wv/linear/603/default_primary.mpd
+#EXTINF:-1 tvg-id="cinemax.MACAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png" group-title="MOVIES",HBO CINEMAX ID HD
+http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197964.ts
+https://pastebin.com/raw/Q1GQs52x
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies/cinemax.jpg" group-title="MOVIES",CINEMAX HD
-http://103.150.197.226:25461/hometv@226/Wdk8VzyYTG/3012
-
-
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="MOVIES", Cinemax
+http://iptvtree.net:8080/14e17190/58U55mXw5dX2fsbu/197964
 
 ###############################################################################
 
