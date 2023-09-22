@@ -9,7 +9,7 @@ x-tvg-url=" "
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1  tvg-name="rcti" tvg-id="rcti" tvg-logo="" group-title="00(TRANSVISION)
+#EXTINF:-1  tvg-name="rcti" tvg-id="rcti" tvg-logo="" group-title="https://raw.githubusercontent.com/CapsuleID/logo/main/tvri.png",YYYYY(TRANSVISION)
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
