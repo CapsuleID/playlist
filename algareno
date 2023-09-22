@@ -3,23 +3,6 @@
 url-tvg=" " 
 x-tvg-url=" " 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1  tvg-name="cinemax" tvg-id="cinemax" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/cinemax.png" group-title="MOVIES",CINEMAX
-http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197964.ts
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1  tvg-name="hbo" tvg-id="hbo" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/hbo.png" group-title="MOVIES",HBO
-http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/197972.ts
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1  tvg-name="hbosignature" tvg-id="hbosignature" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/hbosignature.png" group-title="MOVIES",HBO SIGNATURE
-http://37.49.230.42:8080/live/iptvepic4/DzbGTtATy4DzmK8c/221948.ts
-
-
-
 ###############################################################################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
