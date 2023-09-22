@@ -334,6 +334,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1  tvg-name="inews" tvg-id="inews" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/inews.png" group-title="NEWS",INEWS (INDIHOMETV)
+https://cdn09jtedge.indihometv.com/dvr/139/inews/manifest.mpd?o1=194575080&o2=194575000&o3=194575000&o4=194575000&oa=194575000
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1  tvg-name="cnnindonesia" tvg-id="cnnindonesia" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/cnn.png" group-title="NEWS",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
@@ -992,11 +997,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch335)/index.m3u
 #EXTINF:-1  tvg-name="mycinema" tvg-id="mycinema" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/mycinema.png" group-title="MOVIES",MY CINEMA
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 http://rr3.dens.tv/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1  tvg-name="mycinema" tvg-id="mycinema" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/mycinema.png" group-title="MOVIES",MY CINEMA (MAXSTREAM)
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(813e3bd0-d141-449f-ad22-879140ad6835)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
