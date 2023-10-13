@@ -20,8 +20,8 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/02.m3u
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1  tvg-name="rcti" tvg-id="rcti" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/rcti.png" group-title="NATIONWIDE",RCTI (MNCNOW)
-#EXTVLCOPT:http-referrer=https://visionplus.id
-http://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTVLCOPT:https-referrer=https://visionplus.id
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -35,7 +35,6 @@ https://cdnjkt2.transvision.co.id:1003/live/master/1/4028c6856c3db2cc016cd6e8258
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1  tvg-name="gtv" tvg-id="gtv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/gtv.png" group-title="NATIONWIDE",GTV (MNCNOW)
-#EXTVLCOPT:http-referrer=https://visionplus.id
 http://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
