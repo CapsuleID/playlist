@@ -15,7 +15,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="tvri" tvg-id="tvri" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/tvri.png" group-title="NATIONWIDE",TVRI (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup2/cg221production/ch399/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -65,7 +65,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="sctv" tvg-id="sctv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/sctv.png" group-title="NATIONWIDE",SCTV (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup3/cg357production/ch395/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -79,7 +79,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cd6e6475
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="indosiar" tvg-id="indosiar" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/indosiar.png" group-title="NATIONWIDE",INDOSIAR (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup3/cg331production/ch8/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -120,7 +120,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="transtv" tvg-id="transtv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/transtv.png" group-title="NATIONWIDE",TRANS TV (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup3/cg326production/ch396/02.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -140,7 +140,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="trans7" tvg-id="trans7" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/trans7.png" group-title="NATIONWIDE",TRANS7 (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup5/cg548production/ch397/02.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -195,7 +195,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729ce4a13
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="firstmedia" tvg-id="firstmedia" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/firstmedia.png" group-title="NATIONWIDE",FIRSTMEDIA (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup4/cg421production/ch900/index.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup4/cg421production/ch900/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -205,7 +205,7 @@ http://rr2.dens.tv/s/s10/index10.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="garudatv" tvg-id="garudatv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/garudatv.png" group-title="NATIONWIDE",GARUDA TV (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup1/cg002production/ch45/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup1/cg002production/ch45/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -309,7 +309,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="citramuslim" tvg-id="citramuslim" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/citramuslim.png" group-title="RELIGIOUS",CITRA MUSLIM (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup5/cg535production/ch334/03.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup5/cg535production/ch334/03.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -406,7 +406,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(dc9040ad-a4e1-4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="kompastv" tvg-id="kompastv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/kompastv.png" group-title="NEWS",KOMPAS TV (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup3/cg358production/ch410/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -531,12 +531,12 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6857e04fca5017efbaa3ce
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="asianfoodnetwork" tvg-id="asianfoodnetwork" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/afn.png" group-title="LIFESTYLE",ASIAN FOOD NETWORK (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup4/cg419production/ch76/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup4/cg419production/ch76/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="thefoodnetwork" tvg-id="thefoodnetwork" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/tfn.png" group-title="LIFESTYLE",THE FOOD NETWORK (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup4/cg430production/ch355/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -560,7 +560,7 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="citraentertainment" tvg-id="citraentertainment" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/citraenter.png" group-title="LIFESTYLE",CITRA ENTERTAINMENT (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup4/cg439production/ch379/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup4/cg439production/ch379/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -570,7 +570,7 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="firstlifestyle" tvg-id="firstlifestyle" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/firstlifestyle.png" group-title="LIFESTYLE",FIRST LIFESTYLE (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup3/cg339production/ch3/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup3/cg339production/ch3/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -678,7 +678,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChanne
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="nationalgeographic" tvg-id="nationalgeographic" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/natgeo.png" group-title="KNOWLEDGES",NATIONAL GEOGRAPHIC (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup1/cg015production/ch38/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -689,12 +689,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="natgeowild" tvg-id="natgeowild" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/natgeowild.png" group-title="KNOWLEDGES",NAT GEO WILD (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup1/cg014production/ch39/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="discovery" tvg-id="discovery" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/discovery.png" group-title="KNOWLEDGES",DISCOVERY (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup1/cg013production/ch29/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -723,7 +723,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c68582449a2e018259716f7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="hgtv" tvg-id="hgtv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/hgtv.png" group-title="KNOWLEDGES",HGTV (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup4/cg429production/ch354/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -738,7 +738,7 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="animalplanet" tvg-id="animalplanet" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/animalplanet.png" group-title="KNOWLEDGES",ANIMAL PLANET (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup2/cg206production/ch31/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -765,7 +765,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch405)/index.m3u
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="lovenature" tvg-id="lovenature" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/lovenature.png" group-title="KNOWLEDGES",LOVE NATURE (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup3/cg350production/ch368/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup3/cg350production/ch368/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -811,12 +811,12 @@ https://nyanv-live-cdn.mncnow.id:443/live/eds/Globaltrekker/sa_dash_vmx/Globaltr
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="globaltrekker" tvg-id="globaltrekker" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/globaltrekker.png" group-title="KNOWLEDGES",GLOBAL TREKKER (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup4/cg434production/ch366/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup4/cg434production/ch366/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="dmax" tvg-id="dmax" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/dmax.png" group-title="KNOWLEDGES",DMAX (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup4/cg428production/ch347/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup4/cg428production/ch347/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -852,7 +852,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf10
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="citrabioskop" tvg-id="citrabioskop" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/citrabioskop.png" group-title="MOVIES",CITRA BIOSKOP (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup4/cg435production/ch376/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1085,7 +1085,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="rockaction" tvg-id="rockaction" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/rockaction.png" group-title="MOVIES",ROCK ACTION (LINKNET)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
-http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup2/cg255production/ch330/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1106,7 +1106,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockente
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="rockentertainment" tvg-id="rockentertainment" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/rockentertainment.png" group-title="MOVIES",ROCK ENTERTAINMENT (LINKNET)
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch335)/index.m3u8
-http://edge.linknetott.swiftserve.com/channelgroup2/cg257production/ch335/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup2/cg257production/ch335/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1268,7 +1268,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="citradrama" tvg-id="citradrama" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/citradrama.png" group-title="DRAMA",CITRA DRAMA (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup4/cg436production/ch378/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1296,7 +1296,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="gem" tvg-id="gem" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/gem.png" group-title="DRAMA",GEM (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup3/cg311production/ch3400/02.m3u8
 
 ###############################################################################
 
@@ -1402,7 +1402,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="cartoonnetwork" tvg-id="cartoonnetwork" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/cartoonnetwork.png" group-title="KIDS",CARTOON NETWORK (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup2/cg218production/ch103/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1561,7 +1561,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff04901845601f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-name="moji" tvg-id="moji" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/moji.png" group-title="SPORTS",MOJI (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup4/cg409production/ch26/03.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1598,17 +1598,17 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="firstwarriors" tvg-id="firstwarriors" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/firstwarriors.png" group-title="SPORTS",FIRST WARRIORS (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup4/cg431production/ch999/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup4/cg431production/ch999/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="premiersports" tvg-id="premiersports" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/premiersports.png" group-title="SPORTS", PREMIER SPORTS (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup2/cg224production/ch320/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup2/cg224production/ch320/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="eurosport" tvg-id="eurosport" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/eurosport.png" group-title="SPORTS", EUROSPORT (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup3/cg319production/ch21/02.m3u8
+http://vod.linknetott.swiftcontent.com/channelgroup3/cg319production/ch21/02.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
