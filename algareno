@@ -19,7 +19,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="tvri" tvg-id="tvri" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/tvri.png" group-title="NATIONWIDE",TVRI (LINKNET)
-http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/02.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -293,7 +293,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlK
 https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2
-#EXTINF:-1 tvg-name="madinahtv" tvg-id="madinahtv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/madinahtv.png" group-title="RELIGIOUS",MADINAH TV (DENS)
+#EXTINF:-1 tvg-name="madinahtv" tvg-id="madinahtv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/qurantv.png" group-title="RELIGIOUS",MADINAH TV (DENS)
 https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1601,6 +1601,10 @@ http://edge.linknetott.swiftserve.com/Content/HLS/Live/Channel(ch377)/index.m3u8
 #EXTINF:-1 tvg-name="peopleareawesome" tvg-id="peopleareawesome" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/peopleareawesome.png" group-title="SPORTS",PEOPLE ARE AWESOME 
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2
+#EXTINF:-1 tvg-name="mplus" tvg-id="mplus" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/mplus.png" group-title="SPORTS",M+ CHANNEL (DENS)
+http://op-group1-swiftservehd-1.dens.tv/h/h242/02.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1613,7 +1617,11 @@ https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff04901845601f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-name="moji" tvg-id="moji" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/moji.png" group-title="SPORTS",MOJI (LINKNET)
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch26%29/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
+
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2
+#EXTINF:-1 tvg-name="moji" tvg-id="moji" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/moji.png" group-title="SPORTS",MOJI (DENS)
+http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1760,10 +1768,6 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:-1  tvg-name="tvrisport" tvg-id="tvrisport" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/tvrisport.png" group-title="SPORTS",TVRI SPORT (DENS)
 http://op-group1-swiftservehd-1.dens.tv/h/h238/02.m3u8
 
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2
-#EXTINF:-1  tvg-name="fighttv" tvg-id="fighttv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/fighttv.png" group-title="SPORTS",FIGHT TV (DENS)
-http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1831,6 +1835,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccercha
 #EXTINF:-1  tvg-name="fightsports" tvg-id="fightsports" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/fightsports.png" group-title="SPORTS",FIGHT SPORTS (MNCNOW)
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.1.2
+#EXTINF:-1  tvg-name="fightsports" tvg-id="fightsports" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/fightsports.png" group-title="SPORTS",FIGHT SPORTS (DENS)
+http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
