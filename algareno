@@ -312,7 +312,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-name="rodjatv" tvg-id="rodjatv" tvg-logo="https://raw.githubusercontent.com/CapsuleID/logo/main/rodjatv.png" group-title="RELIGIOUS",RODJA TV
-http://rr2.dens.tv/s/s14/index.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
